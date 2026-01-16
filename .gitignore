@@ -1,0 +1,6 @@
+# Ignore Python cache files (recursively)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
